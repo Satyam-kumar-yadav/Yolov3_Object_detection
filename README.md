@@ -9,7 +9,7 @@ In recent years, deep learning techniques are achieving state-of-the-art results
 
 # Task 1 - Train and Test Data Collection
 
-You can do this task in to ways :-
+You can do this task in two ways :-
 
 **Method 1**  
 This method is the method I recommend as you can gather thousands of images and auto-generate their labels within minutes! Gathering a dataset from Google's Open Images Dataset and using OIDv4 toolkit to generate labels is easy and time efficient. The dataset contains labeled images for over 600 classes!
