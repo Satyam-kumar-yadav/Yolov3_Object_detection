@@ -11,7 +11,7 @@ In recent years, deep learning techniques are achieving state-of-the-art results
 
 You can do this task in two ways :-
 <br>
-**Method 1**
+**Method 1**<br>
 This method is the method I recommend as you can gather thousands of images and auto-generate their labels within minutes! Gathering a dataset from Google's Open Images Dataset and using OIDv4 toolkit to generate labels is easy and time efficient. The dataset contains labeled images for over 600 classes!
 [Explore the dataset here](https://storage.googleapis.com/openimages/web/index.html)
 ![My dataset](https://github.com/Satyam-kumar-yadav/Yolov3_Object_detection/blob/main/dataset.jpg)
