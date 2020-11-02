@@ -22,3 +22,19 @@ Manually Labeling Images with Annotation Tool
 If you can't find the proper images or classes within Google's Open Images Dataset then you will have to use an annotation tool to manually draw your labels which can be a tiresome process.<br>
 [Download the tool from here](https://tzutalin.github.io/labelImg/)
 ![Annotation tool](https://github.com/Satyam-kumar-yadav/Yolov3_Object_detection/blob/main/Annotation.jpg)
+
+# Task 2 - Configuring Files for Training
+This step involves properly configuring your custom .cfg file, obj.data, obj.names and train.txt file.
+
+# Task 3 - Download pre-trained weights
+[darknet53.conv.74](http://pjreddie.com/media/files/darknet53.conv.74)
+
+# Task 4 - Train Your Custom Object Detector
+Train Your Custom Object Detector by the command `!./darknet detector train <path to obj.data> <path to custom config> darknet53.conv.74 -dont_show`
+<br>
+<br>
+
+You can look after some sources :-\
+1-[How to Perform Object Detection With YOLOv3 in Keras](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)\
+2-[Yolo](https://pjreddie.com/darknet/yolo/)\
+3-[Train YOLO to detect a custom object](https://youtu.be/_FNfRtXEbr4)
